@@ -1,0 +1,146 @@
+#header{
+	background-image: url(./ccccccccccccc2.jfif);
+	width: 100%;
+	height: 100px;
+	padding-bottom: 50px;
+}
+
+#headerContent{
+	margin: 0 auto;
+	padding-left: 450px;
+	align-items: center;
+	color: Thistle;
+	font-family: 'Kanit', sans-serif;
+	padding-top: 30px;
+	font-size: 60px;
+	justify-content: center;
+}
+
+p {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	padding-left: 25px;
+}
+
+html {
+	background-color: black;
+	margin: 0 auto;
+}
+
+li {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	padding-left: 40px;
+	padding-right: 130px;
+}
+
+h3 {
+	color: violet;
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	padding-left: 270px;
+}
+
+h2 {
+	color: white;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+	padding-left: 270px;
+}
+
+img {
+	margin-left: 280px;
+	padding-left: 80px;
+	align-items: center;
+	position: relative;
+}
+
+video {
+	padding-left: 270px;
+}
+
+body {
+	background-color: black;
+	margin: 0 auto;
+	padding-bottom: 50px;
+}
+
+.ngoo {
+	padding-left: 80px;
+	padding-top: 30px;
+}
+
+.topnav {
+  background-color: black;
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: violet;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.active {
+  background-color: black;
+  color: violet;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+.dropdown .dropbtn {
+  font-size: 17px;
+  border: none;
+  outline: none;
+  color: violet;
+  padding: 14px 16px;
+  background-color: black;
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: violet;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: white;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.topnav a:hover, .dropdown:hover .dropbtn {
+  background-color: violet;
+  color: white;
+}
+
+.dropdown-content a:hover {
+  background-color: white;
+  color: violet;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
